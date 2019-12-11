@@ -4,7 +4,7 @@ body{
     font-size: 20px;
     line-height: 30px;
 }
-/* Header styles*/
+/* Header styles */
 header{
     background-color: black;
     text-align: center;
@@ -22,6 +22,7 @@ header img{
     border-radius: 120px;
     border: 10px crimson solid;
 }
+/* Main body styles */
 main{
     max-width: 1000px;
     margin: 0 auto;
@@ -41,6 +42,7 @@ a{
 a:hover{
     background-color: darkblue;
 }
+/* Footer styles */
 footer{
     background-color: black;
     text-align: center;
